@@ -1,2 +1,2 @@
 # Catalyst
-A beautiful and elegant ffmpeg GUI with electron.
+A beautiful and elegant ffmpeg GUI.
